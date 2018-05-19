@@ -1,0 +1,18 @@
+//累计签到抽奖天数节点1，ues文本框，可选，默认7
+	int32 awardDays = 27;
+	//累计签到抽奖天数节点2，ues文本框，可选，默认14
+	int32 awardDays2 = 28;
+	//累计签到抽奖天数节点3，ues文本框，可选，默认21
+	int32 awardDays3 = 29;
+	//累计签到抽奖天数节点4，ues文本框，可选，默认28
+	int32 awardDays4 = 30;
+	//月签到天数
+	int32 bokenDays = 31;
+	//累计签到天数
+	int32 totalBokenDays = 32;
+	//补签次数
+	int32 supplementSigninNum = 33;
+	//签到列表
+	repeated SignIn signInList = 34;
+	//签到规则列表
+	repeated SignInRule signInRuleList = 35;

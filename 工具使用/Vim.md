@@ -304,3 +304,6 @@ $ vimtutor
 :syntax clear 清除已定义的语法规则
 :syntax case match 大小写敏感，int和Int将视为不同的语法元素
 :syntax case ignore 大小写无关，int和Int将视为相同的语法元素，并使用同样的配色方案
+
+:set nu 显示文件行号
+:set nu! 取消行号
