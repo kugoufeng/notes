@@ -1,0 +1,2 @@
+appid=wx3ee0fceb7cafbf1e
+AppSecret(小程序密钥)=70a4aa216ea3eb61831535683dcd07fd

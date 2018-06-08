@@ -1,0 +1,8 @@
+首页
+http://wap.cmread.com/rbc/t/dataIndex.jsp?vt=9
+详情页：
+http://wap.cmread.com/rbc/t/detailData.jsp?bid=462504494&vt=9&cm=D00104T9&page=1&cid=462504497
+阅读页
+http://wap.cmread.com/rbc/l/r.jsp?bid=441299632&cid=441299635&cm=D00104T9&vt=9
+书籍列表页
+http://wap.cmread.com/rbc/t/bookSheetListData.jsp?nid=590005080&vt=9
