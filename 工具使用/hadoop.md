@@ -9,3 +9,5 @@ hadoop fs -get /xxx.xxx 下载文件
 hadoop fs -mkdir -p /a/b 创建批量文件夹
 #hadoop网页页面
 kugoufeng00:50070
+#查看hdfs集群状态
+hdfs dfsadmin -report
