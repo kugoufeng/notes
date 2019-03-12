@@ -11,3 +11,6 @@ hadoop fs -mkdir -p /a/b 创建批量文件夹
 kugoufeng00:50070
 #查看hdfs集群状态
 hdfs dfsadmin -report
+
+#运行mapreduce的命令
+hadoop jar jar包 main方法  输入文件路径  输出文件路径
